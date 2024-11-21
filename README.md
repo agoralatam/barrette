@@ -7,7 +7,9 @@
 Esta herramienta se centra en **entornos educativos y autorizados**, proporcionando un entorno controlado para evaluar la resistencia frente a amenazas de este tipo. Es ideal para realizar auditorías de seguridad, pruebas de capacitaciones en ciberseguridad.
 
 ---
-
+# Imagen
+[![Captura de pantalla](ruta/a/tu/imagen.png)](https://raw.githubusercontent.com/agoralatam/barrette/refs/heads/main/image/imagen.png)
+---
 ## Características Principales  
 - **Protocolos Soportados**:  
   - **TCP**   
@@ -29,15 +31,14 @@ Esta herramienta se centra en **entornos educativos y autorizados**, proporciona
 ## Requisitos del Sistema  
 - **Sistema Operativo**: Linux  
 - **Permisos:** Root
-- 
 ---
 
 ## Instalación y uso
-1. **Clonar el repositorio**:  
+1. **Clonar el repositorio**:
    ```bash
    git clone https://github.com/tu_usuario/barrette.git
    ```
-2. **Entrar a el directorio**:
+3. **Entrar a el directorio**:
   ```bash 
    cd tu_repositorio
   ```
