@@ -8,7 +8,7 @@ Esta herramienta se centra en **entornos educativos y autorizados**, proporciona
 
 ---
 # Imagen
-[![Captura de pantalla](ruta/a/tu/imagen.png)](https://raw.githubusercontent.com/agoralatam/barrette/refs/heads/main/image/imagen.png)
+![Captura de pantalla](https://raw.githubusercontent.com/agoralatam/barrette/refs/heads/main/image/imagen.png)
 ---
 ## Características Principales  
 - **Protocolos Soportados**:  
