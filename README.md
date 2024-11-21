@@ -35,9 +35,9 @@ Esta herramienta se centra en **entornos educativos y autorizados**, proporciona
 
 ## Instalación y uso
 1. **Clonar el repositorio**:
-   ```bash
-   git clone https://github.com/tu_usuario/barrette.git
-   ```
+  ```bash
+    git clone https://github.com/tu_usuario/barrette.git
+  ```
 3. **Entrar a el directorio**:
   ```bash 
    cd tu_repositorio
