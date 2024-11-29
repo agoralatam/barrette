@@ -40,17 +40,17 @@ Esta herramienta se centra en **entornos educativos y autorizados**, proporciona
   ```
 3. **Entrar a el directorio**:
   ```bash 
-   cd tu_repositorio
+   cd barrette
   ```
-3.  **Otorgar permisos**:
+4.  **Otorgar permisos**:
   ```bash 
    chmod 777 * && chmod 777 modules_attack/*
   ```
-4. **Instalación de dependencias:***
+5. **Instalación de dependencias:***
   ```bash 
    bash install.sh
   ```
-5. **Ejecución**
+6. **Ejecución**
   ```bash 
    bash barrette.sh -a IP_OBJETIVO -t NUMERO_DE_HILOS -p PUERTO --TIPO-DE-ATAQUE
   ```
