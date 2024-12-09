@@ -46,7 +46,7 @@ Esta herramienta se centra en **entornos educativos y autorizados**, proporciona
   ```bash 
    chmod 777 * && chmod 777 modules_attack/*
   ```
-5. **Instalación de dependencias:***
+5. **Instalación de dependencias:**
   ```bash 
    bash install.sh
   ```
